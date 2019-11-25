@@ -4,7 +4,7 @@ class Welcome extends Component {
     render() {
         return (
             <div>
-                <h3>Welcome Peru</h3>
+                <h3>Welcome Peru!</h3>
             </div>
         );
     }
